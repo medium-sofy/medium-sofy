@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Al-Soufie</h1>
 <h3 align="center">Software Engineering graduate.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=medium-sofy&label=Profile%20views&color=0e75b6&style=flat" alt="medium-sofy" /> </p>
 
 - 🌱 I’m currently learning **Web Development Fundamentals, with the aim of one day becoming a Web Developer, Inshallah.**
 
