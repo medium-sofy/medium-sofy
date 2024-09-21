@@ -27,6 +27,10 @@ test automation scripts that ran against test cases
 including: signing-up, logging-in, searching for a
 course, adding a course to cart, invalid credentials.
 
+#### [Library of Alexandria](https://medium-sofy.github.io/library-of-alexandria/)
+HTML | CSS | Javascript
++ Used Javascript DOM methods to create a library app where users create cards containing info about their favorite books.
+
 #### [Etch-a-sketch](https://github.com/medium-sofy/etch-a-sketch) 
 HTML | CSS | Javascript
 + Used Javascript DOM methods to create a sketchpad
