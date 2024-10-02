@@ -20,6 +20,11 @@ PHP | MySQL | tailwind components
 authentication, authorization, input validation
 adheres to OOP principles, and code re-usability.
 
+#### [React To-Do](https://github.com/medium-sofy/react-to-do)
+React | Vite 
++ A To-Do list App made using React, specifically React's functional components, props, props destructuring, mapping through data, useState, & useEffect hooks.
++ Uses the browser's localStorage API to save the to-do items during page refreshing.
+
 #### [Udemy Automation Testing](https://github.com/medium-sofy/udemy-automation-test) 
 Java |Selenium WebDriver | TestNG | Maven
 + Used Page Object Model (POM) architecture to create
