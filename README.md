@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering graduate.</h3>
 
 
-- 🌱 I’m currently learning **Fullstack Web Development, with the aim of becoming a Web Developer, Inshallah.**
+- 🌱 I’m currently learning **Fullstack Web Development**
 
 - 📫 How to reach me **mohamedsoufie03@gmail.com**
 
