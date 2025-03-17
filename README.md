@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Al-Soufie</h1>
-<h3 align="center">Computer Science graduate, and intern in the fullstack PHP track @ ITI</h3>
+<h3 align="center">Computer Science graduate, and intern in the full-stack PHP track @ ITI</h3>
 
 
 - 🌱 I’m currently learning **Fullstack Web Development**
