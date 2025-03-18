@@ -23,6 +23,14 @@ ITI’s PHP course final project.
 + Ensured separation of concerns and ease of
 collaboration through the use of MVC pattern using
 vanilla PHP.
++ Implemented a customrouter assisting in rapid
+development of project’s features, and enhanced user
+navigation experience.
++ Implemented admin’s catalog page server-side logic,
+ensuring valid input & clear error messages.
++ Implemented “All Users” page server-side logic, which
+fetches users data, enables editing a user’s data, &
+deleting a certain user.
 
 #### [MVC CRUD Notes Web App](https://github.com/medium-sofy/Laracasts-PHP-Practice)
 PHP | MySQL | tailwind components
