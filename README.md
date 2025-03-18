@@ -32,6 +32,14 @@ ensuring valid input & clear error messages.
 fetches users data, enables editing a user’s data, &
 deleting a certain user.
 
+#### [Pixel Positions](https://github.com/medium-sofy/pixel-positions)
+PHP | Laravel | SQLite | Blade Templates | Tailwind
++ Developed a job listing site that implements Laravel’s
+core functionalities (Models, Views, Controllers,
+Authentication, Policies, Resource routes, input
+validation, Blade components) as the final project for
+“30 days to learn Laravel” course.
+
 #### [MVC CRUD Notes Web App](https://github.com/medium-sofy/Laracasts-PHP-Practice)
 PHP | MySQL | tailwind components
 + Note taking app that facilitates CRUD operations, user
