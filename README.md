@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Al-Soufie</h1>
-<h3 align="center">Computer Science and ITI Full-Stack PHP graduate</h3>
+<h3 align="center">Software Engineer Experienced in Laravel development</h3>
+<h5 align="center">Computer Science and ITI Full-Stack PHP graduate</h6>
 
 
 - 🌱 I’m currently learning **Golang**
