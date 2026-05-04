@@ -15,6 +15,16 @@
 
 ### My Projects:
 
+#### [Ingizly - An online services marketplace](https://github.com/medium-sofy/ingizly)
+Laravel | MySQL | Blade Templates | Tailwind
++ Developed an online & offline services platform that connects all sorts of service seekers and service providers
+along with a group of 5 colleagues as ITI’s internship final project.
++ Developed the Service provider dashboard bookings section, which enables managing bookings operations
+such as: accepting, rejecting, and viewing order details.
++ Implemented project development & collaboration structure.
++ Responsible for coordinating & assigning tasks to team members.
++ Coordinated planning & stand-up meetings.
+
 #### [Cafeteria Management System](https://github.com/amrah0/Cafeteria-Project)
 PHP | MySQL | Bootstrap | Github
 + Managed a team of 3 colleagues through Github &
